@@ -21,6 +21,8 @@ curl https://gist.githubusercontent.com/andre2l2/965b62efd1a5b24b6f83dc1cfdace7a
 
 ## Install
 
+### zsh
+
 ```bash
 echo "alias coco=\"curl https://gist.githubusercontent.com/andre2l2/965b62efd1a5b24b6f83dc1cfdace7ac/raw/f2a850ffd7db4c0b8ea14fefa8ff9bd373b434aa/conventional-commits.md | less\"" >> ~/.zshrc && source ~/.zshrc
 ```
